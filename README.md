@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### 
-flutter run --dart-define=AWS_ACCESS_KEY_ID=AKIA6AEADQYLJQHHNEQB --dart-define=AWS_SECRET_ACCESS_KEY=AKIAJ5LMABBFSNGG2ZRQ
+flutter run --dart-define=AWS_ACCESS_KEY_ID='removed' --dart-define=AWS_SECRET_ACCESS_KEY='removed'
